@@ -2,13 +2,9 @@
 <h1 align="center">Hi 👋, I'm Waliullah</h1>
 <h3 align="center">A passionate Back-end developer from Bangladesh.</h3>
 
-<img align="right" alt="Coding" width="1000" height="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waliullah9277&label=Profile%20views&color=0e75b6&style=flat" alt="waliullah9277" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waliullah9277" alt="waliullah9277" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/gmwaliullah9252" target="blank"><img src="https://img.shields.io/twitter/follow/gmwaliullah9252?logo=twitter&style=for-the-badge" alt="gmwaliullah9252" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, PHP**
 
@@ -36,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waliullah9277&show_icons=true&locale=en" alt="waliullah9277" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waliullah9277&" alt="waliullah9277" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=waliullah9277&label=Profile%20views&color=0e75b6&style=flat" alt="waliullah9277" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waliullah9277" alt="waliullah9277" /></a> </p>
