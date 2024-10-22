@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JavaScript, PHP**
 
-- 💬 Ask me about **Python, Java**
+- 💬 Ask me about **Python, Java, Data Structure, Algorithm, C, CPP**
 
 - 📫 How to reach me **waliullah9252@gmail.com**
 
