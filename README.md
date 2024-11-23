@@ -16,6 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://elaborate-gaufre-64cc44.netlify.app" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=portfolio&logo=portfolio&label=&color=1F8AC1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+</a>
 <a href="https://fb.com/waliullahx77" target="_blank">
   <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=4267B2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
 </a>
@@ -37,6 +40,7 @@
 <a href="https://codeforces.com/profile/waliullah_9252" target="_blank">
   <img src="https://img.shields.io/static/v1?message=codeforces&logo=codeforces&label=&color=1F8AC1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codeforces logo" />
 </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
