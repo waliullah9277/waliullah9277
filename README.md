@@ -14,7 +14,7 @@
 
 -  📫 How to reach me contact **01765883690(WhatsApp)**
 
-- ⚡ Fun fact **Funny Guy**
+- ⚡ Fun fact **Sometimes I feel like an introvert, and sometimes I feel like an ambivert, but the funny thing is that when I talk to an extrovert, I become an extrovert again.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
