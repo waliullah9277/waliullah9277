@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQEMkCxOp4_98Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733644642711?e=1739404800&v=beta&t=ujFdt71GMuGG8jS3sFgFCwhiyyQ0FBVy1K13VKjJxlI)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHV7BH0QmwFcQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737378756375?e=1743033600&v=beta&t=rZ5baH_Cn29e3Bjr3F4uo8r_-E8YjoZHUT0s-hjB2r4)
 <h1 align="center">Hi 👋, I'm Waliullah</h1>
 <h3 align="center">A passionate Back-end developer from Bangladesh.</h3>
 
@@ -24,7 +24,7 @@
 <a href="https://fb.com/waliullahx77" target="_blank">
   <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=4267B2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
 </a>
-<a href="https://www.linkedin.com/in/gmwaliullah9277" target="_blank">
+<a href="https://www.linkedin.com/in/waliullah9277" target="_blank">
   <img src="https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
 <a href="https://x.com/waliullah9277" target="_blank">
