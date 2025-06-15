@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHV7BH0QmwFcQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737378756375?e=1743033600&v=beta&t=rZ5baH_Cn29e3Bjr3F4uo8r_-E8YjoZHUT0s-hjB2r4)
+![Cover](https://i.imgur.com/bFHJFVb.png)
 <h1 align="center">Hi 👋, I'm Waliullah</h1>
 <h3 align="center">A passionate Back-end developer from Bangladesh.</h3>
 
