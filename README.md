@@ -24,7 +24,7 @@
 <a href="https://fb.com/waliullahx77" target="_blank">
   <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=4267B2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
 </a>
-<a href="https://www.linkedin.com/in/waliullah9277" target="_blank">
+<a href="[https://www.linkedin.com/in/waliullah9277](https://www.linkedin.com/in/waliullah-dev/)" target="_blank">
   <img src="https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
 <a href="https://x.com/waliullah9277" target="_blank">
