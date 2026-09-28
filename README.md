@@ -83,8 +83,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" alt="Waliullah GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=waliullah9277&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180" alt="Waliullah Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waliullah9277&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img src="./profile-summary-card-output/radical/3-stats.svg" width="48%" alt="Waliullah GitHub Stats" />
+  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="48%" alt="Waliullah Top Languages" />
 </p>
 
 ---
