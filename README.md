@@ -83,8 +83,13 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="./profile-summary-card-output/radical/3-stats.svg" width="48%" alt="Waliullah GitHub Stats" />
-  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="48%" alt="Waliullah Top Languages" />
+  <img src="./profile-summary-card-output/radical/3-stats.svg" width="48%" alt="Waliullah GitHub Stats" title="GitHub Stats: commits, stars, PRs, issues" />
+  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="48%" alt="Waliullah Most Commit Language" title="Most used languages by commits" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" width="48%" alt="Waliullah Repos Per Language" title="Repositories per language" />
+  <img src="./profile-summary-card-output/radical/4-productive-time.svg" width="48%" alt="Waliullah Productive Time" title="Most productive time of day" />
 </p>
 
 ---
